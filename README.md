@@ -12,8 +12,9 @@
    ./image_capture_init_post
 7. To check Thermal camera<br>
    ./image_capture
+8. Check image.png is good and within 20k to 30k.
 
-8. New tab and login to jetson using ssh. Start ./a.sh
-9. New tab and login to jetson using ssh. Start ./q.sh
-10. New tab and login to jetson using ssh. Start ./cli.sh
-11. New tab and login to jetson using ssh. Start ./i.sh
+9. New tab and login to jetson using ssh. Start ./a.sh
+10. New tab and login to jetson using ssh. Start ./q.sh
+11. New tab and login to jetson using ssh. Start ./cli.sh
+12. New tab and login to jetson using ssh. Start ./i.sh
